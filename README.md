@@ -39,7 +39,7 @@ My skills are best summarized through videos rather than long texts. Click on th
 
 | Survive The Plane Crash (Physics & Events) | Showcase Video 3 (Replace me) |
 | :---: | :---: |
-| [![Plane Crash](https://img.youtube.com/vi/oVl9kOAOpyE/0.jpg)](https://www.youtube.com/watch?v=oVl9kOAOpyE) | [![Video 3](https://img.youtube.com/vi/METS_L_ID_DE_TA_VIDEO_ICI/0.jpg)](https://www.youtube.com/watch?v=METS_L_ID_DE_TA_VIDEO_ICI) |
+| [![Plane Crash](https://img.youtube.com/vi/oVl9kOAOpyE/0.jpg)](https://www.youtube.com/watch?v=oVl9kOAOpyE) | [![Video 3](https://img.youtube.com/vi/zwWNcNE-Rj0/0.jpg)](https://www.youtube.com/watch?v=5MNm6MN2KWI) |
 
 *(Tu peux ajouter autant de vidéos que tu veux dans ce tableau en suivant le même format !)*
 
@@ -51,7 +51,7 @@ Here are some visual highlights of my work, environments, and UI designs.
 
 *(Remplace les liens entre parenthèses par les vrais liens de tes images hébergées sur GitHub, Imgur, ou Discord)*
 
-![Screenshot 1](https://via.placeholder.com/800x400.png?text=Replace+with+your+Image+1)
+![Screenshot 1](https://image.noelshack.com/fichiers/2026/12/1/1773686853-capture-d-cran-2026-03-16-194653.png)
 ![Screenshot 2](https://via.placeholder.com/800x400.png?text=Replace+with+your+Image+2)
 
 ---
