@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Prymitif
+# Hello! I'm Prymitif
 
 I'm a passionate game developer with over **8 years of experience** in Roblox Studio (Luau, Coding). I'm 20 years old and specialize in Advanced Artificial Intelligence, creating smart NPCs and complex automated systems.
 
@@ -8,13 +8,13 @@ Whether it's developing sophisticated AI behaviors, immersive gameplay mechanics
 
 ---
 
-## 🛠️ Core Competencies
+## Core Competencies
 
 `Advanced AI & Smart NPCs` | `Luau Scripting` | `Complex DataStores` | `UI Coding & Design` | `Game Optimization` | `FPS Mechanics` | `Backend Systems`
 
 ---
 
-## 🎬 Showcase Videos
+## Showcase Videos
 
 My skills are best summarized through videos rather than long texts. Click on the thumbnails below to watch the showcases on YouTube!
 
@@ -44,24 +44,30 @@ My skills are best summarized through videos rather than long texts. Click on th
 
 ---
 
-## 🖼️ Gallery / Screenshots
+## Gallery / Screenshots
 
 Here are some visual highlights of my work, environments, and UI designs.
 
 
 ![Screenshot 1](https://image.noelshack.com/fichiers/2026/12/1/1773686853-capture-d-cran-2026-03-16-194653.png)
+![Screenshot 2](https://image.noelshack.com/fichiers/2026/16/4/1776324729-capture-d-cran-2026-04-16-081527.png)
+![Screenshot 3](https://image.noelshack.com/fichiers/2026/16/4/1776324730-capture-d-cran-2026-04-16-081746.jpg)
+![Screenshot 4](https://image.noelshack.com/fichiers/2026/16/4/1776324994-capture-d-cran-2026-04-16-081911.jpg)
+![Screenshot 5](https://image.noelshack.com/fichiers/2026/16/4/1776325268-capture-d-cran-2026-04-16-083308.jpg)
+![Screenshot 6](https://image.noelshack.com/fichiers/2026/16/4/1776325259-capture-d-cran-2026-04-16-081712.png)
+![Screenshot 7](https://image.noelshack.com/fichiers/2026/16/4/1776325380-capture-d-cran-2026-04-16-081558.png)
 
 ---
 
-## 🎮 My Games
+## My Games
 
-### [Survive The Plane Crash: Alpha] - ⚠️ *Coming Soon*
+### [Survive The Plane Crash: Alpha] - *Coming Soon*
 An immersive new experience currently in development. Links will be provided once the game opens to the public. 
-👉 [View Game Page](https://www.roblox.com/games/91625399299620/Survive-The-Plane-Crash-Alpha)
+[View Game Page](https://www.roblox.com/games/91625399299620/Survive-The-Plane-Crash-Alpha)
 
 ---
 
-## 📬 Get In Touch
+## Get In Touch
 
 Want to know more or discuss a potential collaboration? Feel free to reach out to me:
 
