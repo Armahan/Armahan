@@ -39,7 +39,7 @@ My skills are best summarized through videos rather than long texts. Click on th
 
 | Survive The Plane Crash (Physics & Events) | Showcase Video 3 (Random) |
 | :---: | :---: |
-| [![Plane Crash](https://img.youtube.com/vi/oVl9kOAOpyE/0.jpg)](https://www.youtube.com/watch?v=oVl9kOAOpyE) | [![Video 3](https://img.youtube.com/vi/zwWNcNE-Rj0/0.jpg)](https://www.youtube.com/watch?v=5MNm6MN2KWI) |
+| [![Plane Crash](https://img.youtube.com/vi/oVl9kOAOpyE/0.jpg)](https://www.youtube.com/watch?v=oVl9kOAOpyE) | [![Video 3](https://img.youtube.com/vi/1mCNB86-Ulw/0.jpg)](https://www.youtube.com/watch?v=1mCNB86-Ulw) |
 
 
 ---
