@@ -268,6 +268,15 @@ They are still included as additional references, but the Comprehensive Skills S
 
 ---
 
+## Video Gallery
+
+Additional videos showing specific systems, mechanics, and gameplay tests.
+
+| Video | Description |
+| :---: | --- |
+| [![AI/NPC Driven Vehicles](https://img.youtube.com/vi/jXrqiBUEbEk/hqdefault.jpg)](https://www.youtube.com/watch?v=jXrqiBUEbEk) | **AI/NPC Showcase**<br>...<br><br>[Watch here](https://www.youtube.com/watch?v=jXrqiBUEbEk) |
+| [![Upcoming Game](https://img.youtube.com/vi/FHDPeTxFXkc/hqdefault.jpg)](https://www.youtube.com/watch?v=FHDPeTxFXkc) | **Game showcase**<br>Game is by @OreoMewza<br><br>[Watch here](https://www.youtube.com/watch?v=FHDPeTxFXkc) |
+
 ## Gallery
 
 Here are some visual examples from my projects, including environments, UI work, and gameplay systems.
