@@ -6,6 +6,8 @@ While AI is my core expertise, I'm equally comfortable coding across various gen
 
 Whether it's developing sophisticated AI behaviors, immersive gameplay mechanics, or optimized backend scripting, I bring creativity and reliability to every project I join. I'm always up for a challenge!
 
+And by the way, I'm the official lead developper of Funni Little Games & Become Tiky and Everything Else.
+
 ---
 
 ## Core Competencies
