@@ -1,10 +1,10 @@
 # Prymitif - Roblox Game Developer / Luau Scripter
 
-Hello, I’m Prymitif, a Roblox developer specialized in Luau scripting, advanced gameplay systems, AI/NPC behavior, and optimized backend architecture.
+Hello, I’m Prymitif, a Roblox developer specialized in Luau scripting, gameplay systems, AI/NPC behavior, and optimized backend architecture.
 
-I have over 8 years of experience working with Roblox Studio and Luau. Over time, I have reached a level where I can confidently code almost any type of Roblox system, from simple gameplay mechanics to complex, large-scale game frameworks.
+I have over 8 years of experience working with Roblox Studio and Luau. My main strength is scripting, and I have reached a level where I can confidently build almost any Roblox system when the goal is clearly defined.
 
-My main strength is scripting. I focus on building systems that are not only functional, but also clean, scalable, optimized, and useful for real gameplay production.
+I focus on creating systems that are not only functional, but also clean, scalable, optimized, and useful for real game production.
 
 I am also the official lead scripter of Funni Little Games and Become Tiky and Everything Else.
 
@@ -12,145 +12,293 @@ I am also the official lead scripter of Funni Little Games and Become Tiky and E
 
 ## What I Can Bring To Your Project
 
-I can help you turn an idea into a complete working system.
+I can help turn gameplay ideas into complete working systems.
 
-Whether your game needs AI, combat, inventory, shops, saving, movement, UI logic, multiplayer systems, or full gameplay loops, I can build the technical foundation required to make it work properly.
+My work is especially useful if your project needs:
 
-My work is especially useful for projects that need:
-
-- Reliable gameplay systems that can be expanded later
-- Smart NPCs and enemy behaviors
-- FPS, survival, horror, action, or adventure mechanics
-- Backend systems such as inventories, shops, lives, shields, and DataStores
-- Optimized scripts designed to support many active entities
-- Clean Luau architecture that is easier to maintain
-- Systems that feel smooth and responsive in-game
+- Advanced AI or NPC behavior
+- FPS, combat, survival, horror, or action mechanics
+- Inventory, looting, shop, backpack, lives, shield, or saving systems
+- DataStore-backed progression
+- Multiplayer gameplay logic
+- UI scripting and player feedback systems
+- Optimized systems designed for real Roblox servers
+- Clean code architecture that can be expanded later
 
 I do not only code isolated features. I build systems that are designed to work together as part of a real game.
 
 ---
 
-## Core Competencies
+## Project and System Showcases
 
-Luau Scripting  
-Advanced AI and NPC Systems  
-FPS Mechanics  
-Combat Systems  
-Inventory Systems  
-Looting Systems  
-Shop Systems  
-DataStore Saving  
-Backpack Systems  
-Lives and Shield Systems  
-UI Logic and UI Scripting  
-Game Optimization  
-Backend Systems  
-Gameplay Frameworks  
-Multiplayer Game Logic
+The videos below are the best way to quickly understand what I can build.
+
+Each video includes a direct link under the thumbnail so it is clear where to click.
 
 ---
 
-## Main Showcase
+### AI / NPC Driven Vehicles
+
+This showcase demonstrates AI-controlled vehicles and NPC logic.
+
+It shows my ability to create entities that are not just static or basic, but able to move, react, and behave through scripted logic.
+
+AI/NPC Driven Vehicles
+
+Watch here:  
+https://www.youtube.com/watch?v=jXrqiBUEbEk
+
+What this demonstrates:
+
+- AI/NPC logic
+- Vehicle-related behavior
+- Automated movement systems
+- Gameplay entities controlled through scripting
+- Systems that can be expanded into enemy vehicles, NPC transport, patrol vehicles, or interactive world events
+
+What this can bring to your project:
+
+If your game needs NPCs, vehicles, enemies, drones, patrol units, or automated systems, I can build logic that makes them behave in a more active and gameplay-focused way.
+
+---
+
+### FPS Game / ARC Raiders-Inspired Project
+
+This showcase presents a complex FPS and survival-style system currently in development, inspired by extraction shooter and PvPvE gameplay concepts.
+
+The project includes advanced player mechanics, intelligent drone AI, combat systems, inventory management, looting, shops, armor, backpack logic, DataStore saving, and several backend systems working together.
+
+FPS Game / ARC Raiders-Inspired Project
+
+Watch here:  
+https://www.youtube.com/watch?v=BwjyjIiNQnI
+
+What this demonstrates:
+
+- FPS and survival-style gameplay systems
+- Smart drone AI with patrol, roaming, idle, detection, and combat behavior
+- AI/NPC logic designed for active enemy encounters
+- Automated movement and behavior systems
+- Player movement systems
+- Guns and throwable items
+- Armor and backpack systems
+- Inventory, shop, looting, and DataStore saving
+- Downed/death system
+- Multiple gameplay systems connected into one functional framework
+
+What this can bring to your project:
+
+This shows my ability to build a complete FPS/survival gameplay foundation, not just isolated mechanics. If your game needs enemies, drones, patrol units, looting, combat, inventory, progression, or automated systems, I can create logic that makes the experience feel more active, immersive, and gameplay-focused.
+
+---
+
+### Upcoming Game Showcase
+
+This video showcases an upcoming game by @OreoMewza, owned by Funni Little Games, currently in active development.
+
+My role is connected to the scripting and technical development side of the project.
+
+Upcoming Game
+
+Watch here:  
+https://www.youtube.com/watch?v=FHDPeTxFXkc
+
+What this demonstrates:
+
+- Real project development experience
+- Work connected to an active Roblox game
+- Gameplay systems used in a production context
+- Ability to contribute to a team project
+- Experience working on systems intended for an actual public game
+
+What this can bring to your project:
+
+This shows that I am not only building isolated tests. I can work on real game projects, contribute to production systems, and help bring a game closer to release.
+
+---
 
 ### Comprehensive Skills Showcase
 
-This is my main portfolio video. It shows a complete set of systems I have built, including FPS mechanics, advanced AI, inventory, looting, shops, saving systems, and optimized gameplay features.
+This video demonstrates a wide range of systems I have built, including FPS mechanics, AI, inventory, looting, shops, saving systems, and optimized gameplay features.
 
-The video is the best way to quickly understand my scripting level and the type of systems I can create.
+It is no longer the only main showcase, but it remains one of the best videos for understanding the variety of systems I can create.
 
 Comprehensive Skills Showcase
 
-[![Comprehensive Skills Showcase](https://img.youtube.com/vi/yHG8fPVS-RU/hqdefault.jpg)](https://www.youtube.com/watch?v=yHG8fPVS-RU)
+Watch here:  
+https://www.youtube.com/watch?v=yHG8fPVS-RU
 
-Watch here: https://www.youtube.com/watch?v=yHG8fPVS-RU
+What this demonstrates:
 
----
-
-## What The Main Showcase Demonstrates
-
-### FPS and Player Mechanics
-
-The showcase includes a complete FPS-style system with several core mechanics commonly used in action, survival, and shooter games.
-
-Systems shown include:
-
-- First-person gameplay
-- Third-person support
+- FPS-style movement
+- First-person and third-person support
 - Crouching
 - Sliding
 - Door interaction
-- Smooth player movement logic
-- Camera behavior adapted to gameplay
-- Combat-ready character handling
-
-What this can bring to your project:
-
-These systems are useful if your game needs responsive player movement, FPS controls, immersive camera behavior, or interaction mechanics. They can serve as the foundation for a shooter, horror game, survival game, military game, or any experience where movement and player control matter.
-
----
-
-### Advanced Drone AI
-
-The showcase also includes intelligent drone AI with detection and movement behavior.
-
-Systems shown include:
-
-- Smart detection logic
-- Fluid drone movement
-- Different AI behavior types
-- Enemy awareness
-- Optimized behavior for server performance
-- AI designed with scalability in mind
-
-The system was built with the objective of supporting at least 100 AI entities on the same server, while keeping behavior responsive and efficient.
-
-What this can bring to your project:
-
-This is useful for games that need enemies, drones, guards, monsters, companions, patrol units, or automated entities. Instead of basic NPCs that simply chase players, I can build AI that reacts, detects, moves, and behaves in a more believable way.
-
----
-
-### Inventory, Looting and DataStore Systems
-
-The showcase includes several backend systems that are essential for real Roblox games.
-
-Systems shown include:
-
-- Inventory system
-- Backpack system
-- Looting system
-- Shop system
-- Lives system
-- Shield system
+- Smart drone AI
+- Weapon systems
+- Inventory systems
+- Looting
+- Shop systems
+- Lives and shield systems
+- Backpack systems
 - DataStore saving
-- Persistent player items
-- Saved inventory progression
+- UI logic
+- Optimized gameplay systems
 
 What this can bring to your project:
 
-These systems are useful for any game where players collect items, buy equipment, keep progress, manage resources, survive multiple lives, or unlock gear over time.
-
-A strong backend is important because players expect their progress to save correctly. I can build systems that connect gameplay features with persistent data in a clean and reliable way.
+This video shows that I can build full gameplay foundations, not just small scripts. The systems are designed to support real gameplay loops involving movement, combat, enemies, items, progression, and saving.
 
 ---
 
-### Gameplay Systems Working Together
+### Survive The Plane Crash
 
-One of the most important parts of the showcase is that the systems are not just separate mechanics. They are designed to work together.
+This is an older development video for Survive The Plane Crash, an immersive Roblox experience currently in development.
 
-For example:
+Survive The Plane Crash: Plane AI Concept
 
-- The player can move and interact with the world
-- AI can detect and react to the player
-- Items can be collected through looting
-- The inventory and backpack can store player items
-- Shops can allow the player to buy equipment
-- DataStores can save progression
-- Lives and shields can support a full gameplay loop
+Watch here:  
+https://www.youtube.com/watch?v=oVl9kOAOpyE
+
+What this demonstrates:
+
+- Physics-based plane
+- Realistic Physics
+- Large-scale gameplay concept development
 
 What this can bring to your project:
 
-This means I can help create the foundation of a complete Roblox experience, not just individual scripts. I can connect systems together so they support a real game loop.
+This shows my ability to work on more ambitious gameplay ideas that require atmosphere, systems, scripting, and player experience to work together.
+
+---
+
+### STPC Gameplay Showcase
+
+This is another older gameplay showcase for Survive The Plane Crash.
+
+STPC Gameplay Showcase (Outdated and is no longer how gameplay currently is, check my channel and youtube short for more)
+
+(Outdated) Watch here:  
+https://www.youtube.com/watch?v=1mCNB86-Ulw
+Updated YT Short:
+https://www.youtube.com/shorts/AAtjzLs_lYI
+
+What this demonstrates:
+
+- Gameplay testing
+- Project direction
+- Interaction systems
+- Early mechanics and development progress
+
+What this can bring to your project:
+
+This video gives additional context on my development process and how I test mechanics inside real Roblox environments.
+
+---
+
+## Video Gallery
+
+| Showcase | What It Shows |
+| :---: | --- |
+| AI/NPC Driven Vehicles | AI/NPC Driven Vehicles<br>AI-controlled entities, movement logic, vehicle behavior, and automated gameplay systems.<br><br>Watch here |
+| Upcoming Game | Upcoming Game Showcase<br>Game by @OreoMewza, owned by Funni Little Games, currently in active development.<br><br>Watch here |
+| Comprehensive Skills Showcase | Comprehensive Skills Showcase<br>FPS mechanics, AI, inventory, looting, shops, DataStores, UI logic, and optimized gameplay systems.<br><br>Watch here |
+| Survive The Plane Crash | Survive The Plane Crash<br>Survival concept, physics-based danger, cinematic events, and plane crash gameplay direction.<br><br>Watch here |
+| STPC Gameplay Showcase | STPC Gameplay Showcase<br>Older gameplay test showing project direction, interactions, and development progress.<br><br>Watch here |
+
+---
+
+## Screenshot Gallery
+
+Here are some visual examples from my projects, including environments, UI work, and gameplay systems.
+
+![Screenshot 1](https://image.noelshack.com/fichiers/2026/12/1/1773686853-capture-d-cran-2026-03-16-194653.png)
+
+![Screenshot 2](https://image.noelshack.com/fichiers/2026/16/4/1776324729-capture-d-cran-2026-04-16-081527.png)
+
+![Screenshot 3](https://image.noelshack.com/fichiers/2026/16/4/1776324730-capture-d-cran-2026-04-16-081746.jpg)
+
+![Screenshot 4](https://image.noelshack.com/fichiers/2026/16/4/1776324994-capture-d-cran-2026-04-16-081911.jpg)
+
+![Screenshot 5](https://image.noelshack.com/fichiers/2026/16/4/1776325268-capture-d-cran-2026-04-16-083308.jpg)
+
+![Screenshot 6](https://image.noelshack.com/fichiers/2026/16/4/1776325259-capture-d-cran-2026-04-16-081712.png)
+
+![Screenshot 7](https://image.noelshack.com/fichiers/2026/16/4/1776325380-capture-d-cran-2026-04-16-081558.png)
+
+---
+
+## Current Project
+
+### Survive The Plane Crash: Alpha
+
+This is an immersive Roblox experience currently in development.
+
+The project focuses on plane crash scenarios, survival mechanics, cinematic events, physics-based danger, and player decision-making during emergencies.
+
+View the game page here:  
+https://www.roblox.com/games/91625399299620/Survive-The-Plane-Crash-Alpha
+
+---
+
+## Technical Skills
+
+This section gives more detail about the systems I can build.
+
+### Core Competencies
+
+- Luau scripting
+- Advanced AI and NPC systems
+- FPS mechanics
+- Combat systems
+- Inventory systems
+- Looting systems
+- Shop systems
+- DataStore saving
+- Backpack systems
+- Lives and shield systems
+- UI logic and UI scripting
+- Game optimization
+- Backend systems
+- Gameplay frameworks
+- Multiplayer game logic
+
+---
+
+## What I Can Code
+
+At this point, I am confident in my ability to code almost any Roblox system if the idea is clearly defined.
+
+Examples of systems I can build include:
+
+- Advanced AI and NPC behavior
+- Enemy detection systems
+- Flying AI
+- Patrol and chase systems
+- FPS frameworks
+- Weapon systems
+- Grenade systems
+- Combat logic
+- Inventory systems
+- Looting systems
+- Shop systems
+- DataStore saving
+- Backpack systems
+- Lives and shield systems
+- Lobby systems
+- Invite systems
+- UI logic
+- Player progression
+- Movement mechanics
+- Crouch, slide, sprint, stamina, and camera systems
+- Horror mechanics
+- Survival mechanics
+- Physics-based gameplay systems
+- Multiplayer backend systems
+- Custom game frameworks
+
+If the system can be clearly described, I can usually find a way to build it.
 
 ---
 
@@ -158,7 +306,7 @@ This means I can help create the foundation of a complete Roblox experience, not
 
 ### Clean System Structure
 
-I try to build systems with clear responsibilities. This makes the code easier to understand, debug, update, and expand.
+I build systems with clear responsibilities so the code is easier to understand, debug, update, and expand.
 
 For example, instead of mixing everything into one script, I prefer separating logic into systems such as:
 
@@ -171,11 +319,11 @@ For example, instead of mixing everything into one script, I prefer separating l
 - Interaction system
 - Combat logic
 
-This approach helps the project stay organized as it grows.
+This helps the project stay organized as it grows.
 
 ---
 
-### Optimization First
+### Optimization
 
 Roblox games can quickly become unstable if systems are not optimized properly, especially when using many NPCs, tools, remotes, DataStores, or UI updates.
 
@@ -214,99 +362,6 @@ I focus on:
 What this can bring to your project:
 
 The final system feels better to play, not just better to read in code.
-
----
-
-## What I Can Code
-
-At this point, I am confident in my ability to code almost any Roblox system if the idea is clear enough.
-
-Examples of systems I can build include:
-
-- Advanced AI and NPC behavior
-- Enemy detection systems
-- Flying AI
-- Patrol and chase systems
-- FPS frameworks
-- Weapon systems
-- Grenade systems
-- Combat logic
-- Inventory systems
-- Looting systems
-- Shop systems
-- DataStore saving
-- Backpack systems
-- Lives and shield systems
-- Lobby systems
-- Invite systems
-- UI logic
-- Player progression
-- Movement mechanics
-- Crouch, slide, sprint, stamina, and camera systems
-- Horror mechanics
-- Survival mechanics
-- Physics-based gameplay systems
-- Multiplayer backend systems
-- Custom game frameworks
-
-If the system can be clearly described, I can usually find a way to build it.
-
----
-
-## Older Development Videos
-
-### Status: Outdated
-
-The videos below show older development work. I have not updated this section recently, so it should be considered outdated compared to my current scripting level.
-
-They are still included as additional references, but the Comprehensive Skills Showcase is the main video to watch first.
-
-| Survive The Plane Crash | STPC Gameplay Showcase |
-| :---: | :---: |
-| [![Survive The Plane Crash](https://img.youtube.com/vi/oVl9kOAOpyE/hqdefault.jpg)](https://www.youtube.com/watch?v=oVl9kOAOpyE) | [![STPC Gameplay Showcase](https://img.youtube.com/vi/1mCNB86-Ulw/hqdefault.jpg)](https://www.youtube.com/watch?v=1mCNB86-Ulw) |
-| [Watch here](https://www.youtube.com/watch?v=oVl9kOAOpyE) | [Watch here](https://www.youtube.com/watch?v=1mCNB86-Ulw) |
-
----
-
-## Video Gallery
-
-Additional videos showing specific systems, mechanics, and gameplay tests.
-
-| Video | Description |
-| :---: | --- |
-| [![AI/NPC Driven Vehicles](https://img.youtube.com/vi/jXrqiBUEbEk/hqdefault.jpg)](https://www.youtube.com/watch?v=jXrqiBUEbEk) | **AI/NPC Showcase**<br>...<br><br>[Watch here](https://www.youtube.com/watch?v=jXrqiBUEbEk) |
-| [![Upcoming Game](https://img.youtube.com/vi/FHDPeTxFXkc/hqdefault.jpg)](https://www.youtube.com/watch?v=FHDPeTxFXkc) | **Game showcase**<br>Game is by @OreoMewza and is still in active developpment, owned by Funni Little Games.<br><br>[Watch here](https://www.youtube.com/watch?v=FHDPeTxFXkc) |
-
-## Gallery
-
-Here are some visual examples from my projects, including environments, UI work, and gameplay systems.
-
-![Screenshot 1](https://image.noelshack.com/fichiers/2026/12/1/1773686853-capture-d-cran-2026-03-16-194653.png)
-
-![Screenshot 2](https://image.noelshack.com/fichiers/2026/16/4/1776324729-capture-d-cran-2026-04-16-081527.png)
-
-![Screenshot 3](https://image.noelshack.com/fichiers/2026/16/4/1776324730-capture-d-cran-2026-04-16-081746.jpg)
-
-![Screenshot 4](https://image.noelshack.com/fichiers/2026/16/4/1776324994-capture-d-cran-2026-04-16-081911.jpg)
-
-![Screenshot 5](https://image.noelshack.com/fichiers/2026/16/4/1776325268-capture-d-cran-2026-04-16-083308.jpg)
-
-![Screenshot 6](https://image.noelshack.com/fichiers/2026/16/4/1776325259-capture-d-cran-2026-04-16-081712.png)
-
-![Screenshot 7](https://image.noelshack.com/fichiers/2026/16/4/1776325380-capture-d-cran-2026-04-16-081558.png)
-
----
-
-## Current Project
-
-### Survive The Plane Crash: Alpha
-
-This is an immersive Roblox experience currently in development.
-
-The project focuses on plane crash scenarios, survival mechanics, cinematic events, physics-based danger, and player decision-making during emergencies.
-
-View the game page here:  
-https://www.roblox.com/games/91625399299620/Survive-The-Plane-Crash-Alpha
 
 ---
 
