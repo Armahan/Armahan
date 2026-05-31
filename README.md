@@ -31,22 +31,13 @@ I do not only code isolated features. I build systems that are designed to work 
 
 ## Project and System Showcases
 
-The videos below are the best way to quickly understand what I can build.
-
-Each video includes a clickable thumbnail and a direct link under it so it is clear where to click.
-
 ---
 
 ### AI / NPC Driven Vehicles
 
-This showcase demonstrates AI-controlled vehicles and NPC logic.
+[![AI / NPC Driven Vehicles](https://img.youtube.com/vi/jXrqiBUEbEk/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXrqiBUEbEk)
 
-It shows my ability to create entities that are not just static or basic, but able to move, react, and behave through scripted logic.
-
-AI / NPC Driven Vehicles
-
-Watch here:  
-https://www.youtube.com/watch?v=jXrqiBUEbEk
+Watch here: https://www.youtube.com/watch?v=jXrqiBUEbEk
 
 What this demonstrates:
 
@@ -64,14 +55,9 @@ If your game needs NPCs, vehicles, enemies, drones, patrol units, or automated s
 
 ### FPS Game / ARC Raiders-Inspired Project
 
-This showcase presents a complex FPS and survival-style system currently in development, inspired by extraction shooter and PvPvE gameplay concepts.
+[![FPS Game / ARC Raiders-Inspired Project](https://img.youtube.com/vi/BwjyjIiNQnI/maxresdefault.jpg)](https://www.youtube.com/watch?v=BwjyjIiNQnI)
 
-The project includes advanced player mechanics, intelligent drone AI, combat systems, inventory management, looting, shops, armor, backpack logic, DataStore saving, and several backend systems working together.
-
-FPS Game / ARC Raiders-Inspired Project
-
-Watch here:  
-https://www.youtube.com/watch?v=BwjyjIiNQnI
+Watch here: https://www.youtube.com/watch?v=BwjyjIiNQnI
 
 What this demonstrates:
 
@@ -94,14 +80,9 @@ This shows my ability to build a complete FPS/survival gameplay foundation, not 
 
 ### Upcoming Game Showcase
 
-This video showcases an upcoming game by @OreoMewza, owned by Funni Little Games, currently in active development.
+[![Upcoming Game Showcase](https://img.youtube.com/vi/FHDPeTxFXkc/maxresdefault.jpg)](https://www.youtube.com/watch?v=FHDPeTxFXkc)
 
-My role is connected to the scripting and technical development side of the project.
-
-Upcoming Game Showcase
-
-Watch here:  
-https://www.youtube.com/watch?v=FHDPeTxFXkc
+Watch here: https://www.youtube.com/watch?v=FHDPeTxFXkc
 
 What this demonstrates:
 
@@ -119,14 +100,9 @@ This shows that I am not only building isolated tests. I can work on real game p
 
 ### Comprehensive Skills Showcase
 
-This video demonstrates a wide range of systems I have built, including FPS mechanics, AI, inventory, looting, shops, saving systems, and optimized gameplay features.
+[![Comprehensive Skills Showcase](https://img.youtube.com/vi/yHG8fPVS-RU/maxresdefault.jpg)](https://www.youtube.com/watch?v=yHG8fPVS-RU)
 
-It is no longer the only main showcase, but it remains one of the best videos for understanding the variety of systems I can create.
-
-Comprehensive Skills Showcase
-
-Watch here:  
-https://www.youtube.com/watch?v=yHG8fPVS-RU
+Watch here: https://www.youtube.com/watch?v=yHG8fPVS-RU
 
 What this demonstrates:
 
@@ -154,12 +130,9 @@ This video shows that I can build full gameplay foundations, not just small scri
 
 ### Survive The Plane Crash
 
-This is an older development video for Survive The Plane Crash, an immersive Roblox experience currently in development.
+[![Survive The Plane Crash: Plane AI Concept](https://img.youtube.com/vi/oVl9kOAOpyE/maxresdefault.jpg)](https://www.youtube.com/watch?v=oVl9kOAOpyE)
 
-Survive The Plane Crash: Plane AI Concept
-
-Watch here:  
-https://www.youtube.com/watch?v=oVl9kOAOpyE
+Watch here: https://www.youtube.com/watch?v=oVl9kOAOpyE
 
 What this demonstrates:
 
@@ -177,17 +150,13 @@ This shows my ability to work on more ambitious gameplay ideas that require atmo
 
 ### STPC Gameplay Showcase
 
-This is an older gameplay showcase for Survive The Plane Crash.
+[![STPC Gameplay Showcase](https://img.youtube.com/vi/1mCNB86-Ulw/maxresdefault.jpg)](https://www.youtube.com/watch?v=1mCNB86-Ulw)
 
-The gameplay shown here is outdated and no longer represents the current direction of the project. For more recent updates, check my YouTube channel and shorts.
+Outdated full video: https://www.youtube.com/watch?v=1mCNB86-Ulw
 
-STPC Gameplay Showcase
+[![STPC Updated Short](https://img.youtube.com/vi/AAtjzLs_lYI/maxresdefault.jpg)](https://www.youtube.com/shorts/AAtjzLs_lYI)
 
-Outdated full video:  
-https://www.youtube.com/watch?v=1mCNB86-Ulw
-
-Updated YouTube Short:  
-https://www.youtube.com/shorts/AAtjzLs_lYI
+Updated YouTube Short: https://www.youtube.com/shorts/AAtjzLs_lYI
 
 What this demonstrates:
 
@@ -206,12 +175,12 @@ This video gives additional context on my development process and how I test mec
 
 | Showcase | What It Shows |
 | :---: | --- |
-| AI / NPC Driven Vehicles | AI / NPC Driven Vehicles<br>AI-controlled entities, movement logic, vehicle behavior, and automated gameplay systems.<br><br>Watch here |
-| FPS Game / ARC Raiders-Inspired Project | FPS Game / ARC Raiders-Inspired Project<br>FPS/survival gameplay, drone AI, combat, looting, inventory, shops, armor, backpack, DataStores, and connected backend systems.<br><br>Watch here |
-| Upcoming Game Showcase | Upcoming Game Showcase<br>Game by @OreoMewza, owned by Funni Little Games, currently in active development.<br><br>Watch here |
-| Comprehensive Skills Showcase | Comprehensive Skills Showcase<br>FPS mechanics, AI, inventory, looting, shops, DataStores, UI logic, and optimized gameplay systems.<br><br>Watch here |
-| Survive The Plane Crash | Survive The Plane Crash<br>Plane AI concept, physics-based systems, survival concept, and large-scale gameplay direction.<br><br>Watch here |
-| STPC Gameplay Showcase | STPC Gameplay Showcase<br>Outdated gameplay test showing earlier project direction, interactions, and development progress.<br><br>Watch full video<br>Watch updated short |
+| [![AI / NPC Driven Vehicles](https://img.youtube.com/vi/jXrqiBUEbEk/hqdefault.jpg)](https://www.youtube.com/watch?v=jXrqiBUEbEk)<br>**AI / NPC Driven Vehicles**<br>[Watch here](https://www.youtube.com/watch?v=jXrqiBUEbEk) | AI-controlled entities, movement logic, vehicle behavior, and automated gameplay systems. |
+| [![FPS Game / ARC Raiders-Inspired Project](https://img.youtube.com/vi/BwjyjIiNQnI/hqdefault.jpg)](https://www.youtube.com/watch?v=BwjyjIiNQnI)<br>**FPS Game / ARC Raiders-Inspired Project**<br>[Watch here](https://www.youtube.com/watch?v=BwjyjIiNQnI) | FPS/survival gameplay, drone AI, combat, looting, inventory, shops, armor, backpack, DataStores, and connected backend systems. |
+| [![Upcoming Game Showcase](https://img.youtube.com/vi/FHDPeTxFXkc/hqdefault.jpg)](https://www.youtube.com/watch?v=FHDPeTxFXkc)<br>**Upcoming Game Showcase**<br>[Watch here](https://www.youtube.com/watch?v=FHDPeTxFXkc) | Game by @OreoMewza, owned by Funni Little Games, currently in active development. |
+| [![Comprehensive Skills Showcase](https://img.youtube.com/vi/yHG8fPVS-RU/hqdefault.jpg)](https://www.youtube.com/watch?v=yHG8fPVS-RU)<br>**Comprehensive Skills Showcase**<br>[Watch here](https://www.youtube.com/watch?v=yHG8fPVS-RU) | FPS mechanics, AI, inventory, looting, shops, DataStores, UI logic, and optimized gameplay systems. |
+| [![Survive The Plane Crash](https://img.youtube.com/vi/oVl9kOAOpyE/hqdefault.jpg)](https://www.youtube.com/watch?v=oVl9kOAOpyE)<br>**Survive The Plane Crash**<br>[Watch here](https://www.youtube.com/watch?v=oVl9kOAOpyE) | Plane AI concept, physics-based systems, survival concept, and large-scale gameplay direction. |
+| [![STPC Gameplay Showcase](https://img.youtube.com/vi/1mCNB86-Ulw/hqdefault.jpg)](https://www.youtube.com/watch?v=1mCNB86-Ulw)<br>**STPC Gameplay Showcase**<br>[Watch full video](https://www.youtube.com/watch?v=1mCNB86-Ulw) · [Watch updated short](https://www.youtube.com/shorts/AAtjzLs_lYI) | Outdated gameplay test showing earlier project direction, interactions, and development progress. |
 
 ---
 
