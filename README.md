@@ -33,6 +33,30 @@ I do not only code isolated features. I build systems that are designed to work 
 
 ---
 
+### Infinite World Generation System (2.5D)
+
+[![Infinite World Generation System](https://img.youtube.com/vi/mBoBEI04vS0/maxresdefault.jpg)](https://youtu.be/mBoBEI04vS0)
+
+Watch here: https://youtu.be/mBoBEI04vS0
+
+What this demonstrates:
+
+- Infinite procedural world generation
+- 2.5D modular and scalable architecture
+- Easily expandable and customizable biome system
+- Optimized generation for smooth performance
+- Organic and natural terrain shapes
+- Rivers, oceans, and water systems
+- Decorations and environmental details
+- Immersive and living world feel
+- Structures systems
+
+What this can bring to your project:
+
+If your game needs a world that feels alive and infinite, I can build a generation system that is both scalable and easy to expand. New biomes, environments, and details can be added without reworking the entire system. The result is a world that feels natural, immersive, and built to grow with your project.
+
+---
+
 ### AI / NPC Driven Vehicles
 
 [![AI / NPC Driven Vehicles](https://img.youtube.com/vi/jXrqiBUEbEk/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXrqiBUEbEk)
@@ -181,6 +205,7 @@ This video gives additional context on my development process and how I test mec
 | [![Comprehensive Skills Showcase](https://img.youtube.com/vi/yHG8fPVS-RU/hqdefault.jpg)](https://www.youtube.com/watch?v=yHG8fPVS-RU)<br>**Comprehensive Skills Showcase**<br>[Watch here](https://www.youtube.com/watch?v=yHG8fPVS-RU) | FPS mechanics, AI, inventory, looting, shops, DataStores, UI logic, and optimized gameplay systems. |
 | [![Survive The Plane Crash](https://img.youtube.com/vi/oVl9kOAOpyE/hqdefault.jpg)](https://www.youtube.com/watch?v=oVl9kOAOpyE)<br>**Survive The Plane Crash**<br>[Watch here](https://www.youtube.com/watch?v=oVl9kOAOpyE) | Plane AI concept, physics-based systems, survival concept, and large-scale gameplay direction. |
 | [![STPC Gameplay Showcase](https://img.youtube.com/vi/1mCNB86-Ulw/hqdefault.jpg)](https://www.youtube.com/watch?v=1mCNB86-Ulw)<br>**STPC Gameplay Showcase**<br>[Watch full video](https://www.youtube.com/watch?v=1mCNB86-Ulw) · [Watch updated short](https://www.youtube.com/shorts/AAtjzLs_lYI) | Outdated gameplay test showing earlier project direction, interactions, and development progress. |
+| [![Infinite World Generation System](https://img.youtube.com/vi/mBoBEI04vS0/hqdefault.jpg)](https://youtu.be/mBoBEI04vS0)<br>**Infinite World Generation System (2.5D)**<br>[Watch here](https://youtu.be/mBoBEI04vS0) | Modular and scalable 2.5D WorldGen system with infinite terrain, biomes, rivers, oceans, organic shapes, and optimized performance. |
 
 ---
 
