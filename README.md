@@ -33,7 +33,7 @@ I do not only code isolated features. I build systems that are designed to work 
 
 The videos below are the best way to quickly understand what I can build.
 
-Each video includes a direct link under the thumbnail so it is clear where to click.
+Each video includes a clickable thumbnail and a direct link under it so it is clear where to click.
 
 ---
 
@@ -43,7 +43,7 @@ This showcase demonstrates AI-controlled vehicles and NPC logic.
 
 It shows my ability to create entities that are not just static or basic, but able to move, react, and behave through scripted logic.
 
-AI/NPC Driven Vehicles
+AI / NPC Driven Vehicles
 
 Watch here:  
 https://www.youtube.com/watch?v=jXrqiBUEbEk
@@ -98,7 +98,7 @@ This video showcases an upcoming game by @OreoMewza, owned by Funni Little Games
 
 My role is connected to the scripting and technical development side of the project.
 
-Upcoming Game
+Upcoming Game Showcase
 
 Watch here:  
 https://www.youtube.com/watch?v=FHDPeTxFXkc
@@ -163,9 +163,11 @@ https://www.youtube.com/watch?v=oVl9kOAOpyE
 
 What this demonstrates:
 
-- Physics-based plane
-- Realistic Physics
+- Physics-based plane behavior
+- Realistic physics concepts
+- Plane AI concept
 - Large-scale gameplay concept development
+- Systems built around cinematic and survival-focused gameplay
 
 What this can bring to your project:
 
@@ -175,13 +177,16 @@ This shows my ability to work on more ambitious gameplay ideas that require atmo
 
 ### STPC Gameplay Showcase
 
-This is another older gameplay showcase for Survive The Plane Crash.
+This is an older gameplay showcase for Survive The Plane Crash.
 
-STPC Gameplay Showcase (Outdated and is no longer how gameplay currently is, check my channel and youtube short for more)
+The gameplay shown here is outdated and no longer represents the current direction of the project. For more recent updates, check my YouTube channel and shorts.
 
-(Outdated) Watch here:  
+STPC Gameplay Showcase
+
+Outdated full video:  
 https://www.youtube.com/watch?v=1mCNB86-Ulw
-Updated YT Short:
+
+Updated YouTube Short:  
 https://www.youtube.com/shorts/AAtjzLs_lYI
 
 What this demonstrates:
@@ -201,11 +206,12 @@ This video gives additional context on my development process and how I test mec
 
 | Showcase | What It Shows |
 | :---: | --- |
-| AI/NPC Driven Vehicles | AI/NPC Driven Vehicles<br>AI-controlled entities, movement logic, vehicle behavior, and automated gameplay systems.<br><br>Watch here |
-| Upcoming Game | Upcoming Game Showcase<br>Game by @OreoMewza, owned by Funni Little Games, currently in active development.<br><br>Watch here |
+| AI / NPC Driven Vehicles | AI / NPC Driven Vehicles<br>AI-controlled entities, movement logic, vehicle behavior, and automated gameplay systems.<br><br>Watch here |
+| FPS Game / ARC Raiders-Inspired Project | FPS Game / ARC Raiders-Inspired Project<br>FPS/survival gameplay, drone AI, combat, looting, inventory, shops, armor, backpack, DataStores, and connected backend systems.<br><br>Watch here |
+| Upcoming Game Showcase | Upcoming Game Showcase<br>Game by @OreoMewza, owned by Funni Little Games, currently in active development.<br><br>Watch here |
 | Comprehensive Skills Showcase | Comprehensive Skills Showcase<br>FPS mechanics, AI, inventory, looting, shops, DataStores, UI logic, and optimized gameplay systems.<br><br>Watch here |
-| Survive The Plane Crash | Survive The Plane Crash<br>Survival concept, physics-based danger, cinematic events, and plane crash gameplay direction.<br><br>Watch here |
-| STPC Gameplay Showcase | STPC Gameplay Showcase<br>Older gameplay test showing project direction, interactions, and development progress.<br><br>Watch here |
+| Survive The Plane Crash | Survive The Plane Crash<br>Plane AI concept, physics-based systems, survival concept, and large-scale gameplay direction.<br><br>Watch here |
+| STPC Gameplay Showcase | STPC Gameplay Showcase<br>Outdated gameplay test showing earlier project direction, interactions, and development progress.<br><br>Watch full video<br>Watch updated short |
 
 ---
 
