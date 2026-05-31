@@ -60,8 +60,9 @@ The video is the best way to quickly understand my scripting level and the type 
 
 Comprehensive Skills Showcase
 
-Watch the full showcase here:  
-https://www.youtube.com/watch?v=yHG8fPVS-RU
+[![Comprehensive Skills Showcase](https://img.youtube.com/vi/yHG8fPVS-RU/hqdefault.jpg)](https://www.youtube.com/watch?v=yHG8fPVS-RU)
+
+Watch here: https://www.youtube.com/watch?v=yHG8fPVS-RU
 
 ---
 
@@ -262,8 +263,8 @@ They are still included as additional references, but the Comprehensive Skills S
 
 | Survive The Plane Crash | STPC Gameplay Showcase |
 | :---: | :---: |
-| Plane Crash | Video 3 |
-| Watch here: https://www.youtube.com/watch?v=oVl9kOAOpyE | Watch here: https://www.youtube.com/watch?v=1mCNB86-Ulw |
+| [![Survive The Plane Crash](https://img.youtube.com/vi/oVl9kOAOpyE/hqdefault.jpg)](https://www.youtube.com/watch?v=oVl9kOAOpyE) | [![STPC Gameplay Showcase](https://img.youtube.com/vi/1mCNB86-Ulw/hqdefault.jpg)](https://www.youtube.com/watch?v=1mCNB86-Ulw) |
+| [Watch here](https://www.youtube.com/watch?v=oVl9kOAOpyE) | [Watch here](https://www.youtube.com/watch?v=1mCNB86-Ulw) |
 
 ---
 
@@ -271,19 +272,19 @@ They are still included as additional references, but the Comprehensive Skills S
 
 Here are some visual examples from my projects, including environments, UI work, and gameplay systems.
 
-Screenshot 1
+![Screenshot 1](https://image.noelshack.com/fichiers/2026/12/1/1773686853-capture-d-cran-2026-03-16-194653.png)
 
-Screenshot 2
+![Screenshot 2](https://image.noelshack.com/fichiers/2026/16/4/1776324729-capture-d-cran-2026-04-16-081527.png)
 
-Screenshot 3
+![Screenshot 3](https://image.noelshack.com/fichiers/2026/16/4/1776324730-capture-d-cran-2026-04-16-081746.jpg)
 
-Screenshot 4
+![Screenshot 4](https://image.noelshack.com/fichiers/2026/16/4/1776324994-capture-d-cran-2026-04-16-081911.jpg)
 
-Screenshot 5
+![Screenshot 5](https://image.noelshack.com/fichiers/2026/16/4/1776325268-capture-d-cran-2026-04-16-083308.jpg)
 
-Screenshot 6
+![Screenshot 6](https://image.noelshack.com/fichiers/2026/16/4/1776325259-capture-d-cran-2026-04-16-081712.png)
 
-Screenshot 7
+![Screenshot 7](https://image.noelshack.com/fichiers/2026/16/4/1776325380-capture-d-cran-2026-04-16-081558.png)
 
 ---
 
