@@ -6,7 +6,7 @@ I have over 8 years of experience working with Roblox Studio and Luau. My main s
 
 I focus on creating systems that are not only functional, but also clean, scalable, optimized, and useful for real game production.
 
-I am also the official lead scripter of Funni Little Games and Become Tiky and Everything Else.
+I am also the official lead scripter of [Funni Little Games](https://www.roblox.com/communities/15869696/Funni-Little-Games#!/about) and [Become Tiky and Everything Else](https://www.roblox.com/games/132451615664022/Become-Tiky-and-Everything-Else-Again).
 
 ---
 
